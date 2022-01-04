@@ -87,7 +87,7 @@ and only the user of their account knows the secret pin.
 To check the the given input is valid or not we are using a valid() function and in that 
 it will check the given input is valid or not from the structure stored in the customer details.
 When it is valid it will allow you by shwing the options that you are going to perform.
-It will be in switch case and list the options in this format below:
+It will be in switch case and list the options in this format below :
 Enter your choice: 3
 Enter your Account number: 104
 Enter your PIN number: 2345
