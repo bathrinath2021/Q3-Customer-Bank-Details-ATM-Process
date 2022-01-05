@@ -274,7 +274,7 @@ int main()
 		printf("3. Handle ATM Process\n");
 		printf("4. Check ATM Balance\n");
 		printf("5. Quit\n");
-		printf("--------------------------------------------------\n\n");
+		printf("---------------------------------------------------\n\n");
 		printf("Enter your choice: \n ");
 		scanf("%d", &choice);
         switch(choice)
