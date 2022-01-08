@@ -3,7 +3,7 @@
 You are to program an Automated Teller Machine (ATM) to show the Main
 Menu specified below and perform the list of tasks given.
 
-> 1\. Load Cash to ATM
+> 1\. Load Cash to  ATM
 >
 > 2\. Show Customer Details
 >
