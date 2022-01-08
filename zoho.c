@@ -248,7 +248,7 @@ int Transfer_Money(int p)
 //To display the remaining cash amount in ATM 
 int check_ATM_balance()
 {
-	int total=total_balance_in_ATM-101;
+	int total=total_balance_in_ATM-102;
 	printf("\n-------------------------------------------------------\n");
 	printf("Denomination\tNumber\t\tValue\n");
 	printf("-------------------------------------------------------\n");
